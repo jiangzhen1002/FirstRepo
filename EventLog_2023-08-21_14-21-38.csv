@@ -1,0 +1,280 @@
+id,时间戳,传感器名称,传感器类型,状态,级别,描述,事件码,处理建议
+148,2023/08/18 17:37:13,ACPI_State,System ACPI Power State,Triggered,Info,"S5 / G2 "soft-off"",0x225000de,"The device is software shutdown. You cannot run applications or the operating system when the device is software shutdown. Software shutdown shuts down the entire operating system except the main power supply unit. Almost no power is consumed during software shutdown. The waking time will be longer to reboot the system after a soft shutdown.
+No action is required."
+147,2023/08/18 17:37:13,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+146,2023/05/13 08:41:55,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Chassis control command",0x1d7000de,"The system restarted.
+No action is required."
+145,2023/05/13 08:41:54,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+144,2023/05/13 08:41:48,ACPI_State,System ACPI Power State,Triggered,Info,"S0 / G0 "working"",0x220000de,"The system is operating correctly.
+G(0-2) indicate the global states. S(0-5) indicate the sleep states.
+No action is required."
+143,2023/05/13 08:41:41,Button,Button / Switch,Triggered,Info,"Power Button pressed---Virtual button---Power on command",0x140000de,""
+142,2023/05/12 21:47:20,ACPI_State,System ACPI Power State,Triggered,Info,"S5 / G2 "soft-off"",0x225000de,"The device is software shutdown. You cannot run applications or the operating system when the device is software shutdown. Software shutdown shuts down the entire operating system except the main power supply unit. Almost no power is consumed during software shutdown. The waking time will be longer to reboot the system after a soft shutdown.
+No action is required."
+141,2023/05/12 21:47:20,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+140,2023/05/07 11:30:05,Sys_Restart,System Boot / Restart Initiated,Cleared,Info,"Initiated by warm reset---System reset by power reset",0x1d2000df,""
+139,2023/05/07 11:29:55,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Chassis control command",0x1d7000de,"The system restarted.
+No action is required."
+138,2023/05/07 11:29:53,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+137,2023/05/07 11:29:47,ACPI_State,System ACPI Power State,Triggered,Info,"S0 / G0 "working"",0x220000de,"The system is operating correctly.
+G(0-2) indicate the global states. S(0-5) indicate the sleep states.
+No action is required."
+136,2023/05/07 11:29:40,Button,Button / Switch,Triggered,Info,"Power Button pressed---Virtual button---Power on command",0x140000de,""
+135,2023/05/07 11:18:18,PSU_Redundant,Power Supply,Cleared,Info,"Redundancy Lost",0x08100017,""
+134,2023/05/07 11:18:09,PSU4_Status,Power Supply,Cleared,Info,"Power Supply input lost (AC/DC)",0x083000df,""
+133,2023/05/07 11:18:09,PSU3_Status,Power Supply,Cleared,Info,"Power Supply input lost (AC/DC)",0x083000df,""
+132,2023/05/07 10:07:54,ACPI_State,System ACPI Power State,Triggered,Info,"S5 / G2 "soft-off"",0x225000de,"The device is software shutdown. You cannot run applications or the operating system when the device is software shutdown. Software shutdown shuts down the entire operating system except the main power supply unit. Almost no power is consumed during software shutdown. The waking time will be longer to reboot the system after a soft shutdown.
+No action is required."
+131,2023/05/07 10:07:52,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+130,2023/05/07 09:04:48,PSU_Redundant,Power Supply,Triggered,Major,"Redundancy Lost",0x08100016,"The power supply redundancy was lost.
+1. Verify that the environment is normal.
+2. Verify that no power supply is removed.
+3. Verify that the power supplies have good contacts with the power cords.
+4. Verify that all power supplies are operating correctly.
+5. If the issue persists, contact Technical Support."
+129,2023/05/07 09:04:40,PSU4_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+128,2023/05/07 09:04:39,PSU3_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+127,2023/03/03 17:35:35,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+126,2023/03/03 17:35:34,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+125,2023/03/01 13:49:16,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+124,2023/03/01 13:49:14,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+123,2023/03/01 13:31:31,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+122,2023/03/01 13:31:29,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+121,2023/03/01 13:27:27,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+120,2023/03/01 13:27:26,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+119,2023/03/01 13:21:25,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+118,2023/03/01 13:21:25,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+117,2023/03/01 13:17:41,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+116,2023/03/01 13:17:39,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+115,2023/03/01 13:13:50,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+114,2023/03/01 13:13:49,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+113,2023/03/01 13:04:37,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+112,2023/03/01 13:04:36,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+111,2023/03/01 12:02:07,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Chassis control command",0x1d7000de,"The system restarted.
+No action is required."
+110,2023/03/01 12:02:05,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+109,2023/03/01 12:02:04,Button,Button / Switch,Triggered,Info,"Reset Button pressed---Virtual button---Reset command",0x142000de,"This message is generated when a force system reset operation was performed from HDM or a KVM console or if an IERR error occurs.
+1. Verify that the reset command was executed. If the command was executed, no action is required.
+2. Check whether an IERR error occurred.
+3. If the issue persists, contact Technical Support."
+108,2023/03/01 11:47:14,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Chassis control command",0x1d7000de,"The system restarted.
+No action is required."
+107,2023/03/01 11:47:11,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+106,2023/03/01 11:47:09,Button,Button / Switch,Triggered,Info,"Reset Button pressed---Virtual button---Reset command",0x142000de,"This message is generated when a force system reset operation was performed from HDM or a KVM console or if an IERR error occurs.
+1. Verify that the reset command was executed. If the command was executed, no action is required.
+2. Check whether an IERR error occurred.
+3. If the issue persists, contact Technical Support."
+105,2023/03/01 11:31:56,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Unknown cause",0x1d7000de,"The system restarted.
+No action is required."
+104,2023/03/01 11:31:53,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+103,2023/03/01 11:12:02,Sys_Restart,System Boot / Restart Initiated,Triggered,Info,"Initiated by warm reset---System reset by power reset",0x1d2000de,"This alarm is triggered by system warm restart.
+The message content after '---' is displayed only for a server that has a BIOS_Boot_Up sensor.
+1. See related logs for more information.
+2. If the issue persists, contact Technical Support."
+102,2023/03/01 11:11:39,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---Chassis control command",0x1d7000de,"The system restarted.
+No action is required."
+101,2023/03/01 11:11:37,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+100,2023/03/01 11:11:36,Button,Button / Switch,Triggered,Info,"Reset Button pressed---Virtual button---Reset command",0x142000de,"This message is generated when a force system reset operation was performed from HDM or a KVM console or if an IERR error occurs.
+1. Verify that the reset command was executed. If the command was executed, no action is required.
+2. Check whether an IERR error occurred.
+3. If the issue persists, contact Technical Support."
+99,2023/03/01 10:01:44,PSU_Redundant,Power Supply,Cleared,Info,"Redundancy Lost",0x08100017,""
+98,2023/03/01 10:01:40,PSU3_Status,Power Supply,Cleared,Info,"Power Supply input lost (AC/DC)",0x083000df,""
+97,2023/03/01 10:01:22,PSU4_Status,Power Supply,Cleared,Info,"Power Supply input lost (AC/DC)",0x083000df,""
+96,2023/03/01 09:57:53,CPU1_F0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+95,2023/03/01 09:57:53,CPU1_E1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+94,2023/03/01 09:57:53,CPU1_E0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+93,2023/03/01 09:57:53,CPU1_D1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+92,2023/03/01 09:57:53,CPU1_D0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+91,2023/03/01 09:57:53,CPU1_C1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+90,2023/03/01 09:57:53,CPU1_C0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+89,2023/03/01 09:57:52,CPU1_B1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+88,2023/03/01 09:57:52,CPU1_B0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+87,2023/03/01 09:57:52,CPU1_A1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+86,2023/03/01 09:57:52,CPU1_A0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+85,2023/03/01 09:56:55,CPU4_Status,Processor,Triggered,Info,"Processor Presence detected",0x077000de,""
+84,2023/03/01 09:56:55,CPU3_Status,Processor,Triggered,Info,"Processor Presence detected",0x077000de,""
+83,2023/03/01 09:56:55,CPU2_Status,Processor,Triggered,Info,"Processor Presence detected",0x077000de,""
+82,2023/03/01 09:56:55,CPU1_Status,Processor,Triggered,Info,"Processor Presence detected",0x077000de,""
+81,2023/03/01 09:56:53,Disk_F7_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+80,2023/03/01 09:56:53,Disk_F6_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+79,2023/03/01 09:56:53,Disk_F5_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+78,2023/03/01 09:56:53,Disk_F4_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+77,2023/03/01 09:56:53,Disk_F3_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+76,2023/03/01 09:56:53,Disk_F2_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+75,2023/03/01 09:56:53,Disk_F1_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+74,2023/03/01 09:56:53,Disk_F0_Status,Drive Slot (Bay),Triggered,Info,"Drive Presence",0x0d0000de,""
+73,2023/03/01 09:56:46,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+72,2023/03/01 09:56:43,ACPI_State,System ACPI Power State,Triggered,Info,"S0 / G0 "working"",0x220000de,"The system is operating correctly.
+G(0-2) indicate the global states. S(0-5) indicate the sleep states.
+No action is required."
+71,2023/03/01 09:56:41,FAN4_D_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+70,2023/03/01 09:56:41,FAN4_D_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+69,2023/03/01 09:56:41,FAN4_U_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+68,2023/03/01 09:56:40,FAN4_U_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+67,2023/03/01 09:56:40,FAN3_D_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+66,2023/03/01 09:56:40,FAN3_D_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+65,2023/03/01 09:56:40,FAN3_U_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+64,2023/03/01 09:56:40,FAN3_U_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+63,2023/03/01 09:56:40,FAN2_D_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+62,2023/03/01 09:56:40,FAN2_D_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+61,2023/03/01 09:56:40,FAN2_U_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+60,2023/03/01 09:56:39,FAN2_U_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+59,2023/03/01 09:56:39,FAN1_D_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+58,2023/03/01 09:56:39,FAN1_D_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+57,2023/03/01 09:56:39,FAN1_U_R_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+56,2023/03/01 09:56:39,FAN1_U_F_Status,Fan,Triggered,Info,"Transition to Running",0x04000014,"This message is generated when a fan started to operate correctly. No action is required."
+55,2023/03/01 09:56:36,PCIe_Riser4_PG,Chassis,Triggered,Info,"Transition to OK",0x1800000e,""
+54,2023/03/01 09:56:36,PCIe_Riser1_PG,Chassis,Triggered,Info,"Transition to OK",0x1800000e,""
+53,2023/03/01 09:56:35,PSU_Redundant,Power Supply,Triggered,Major,"Redundancy Lost",0x08100016,"The power supply redundancy was lost.
+1. Verify that the environment is normal.
+2. Verify that no power supply is removed.
+3. Verify that the power supplies have good contacts with the power cords.
+4. Verify that all power supplies are operating correctly.
+5. If the issue persists, contact Technical Support."
+52,1970/01/01 08:00:45,Button,Button / Switch,Triggered,Info,"Power Button pressed---Virtual button---Power on command",0x140000de,""
+51,1970/01/01 08:00:44,PSU4_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+50,1970/01/01 08:00:44,PSU4_Status,Power Supply,Triggered,Info,"Presence detected",0x080000de,""
+49,1970/01/01 08:00:43,PSU3_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+48,1970/01/01 08:00:43,PSU3_Status,Power Supply,Triggered,Info,"Presence detected",0x080000de,""
+47,1970/01/01 08:00:43,PSU2_Status,Power Supply,Triggered,Info,"Presence detected",0x080000de,""
+46,1970/01/01 08:00:43,PSU1_Status,Power Supply,Triggered,Info,"Presence detected",0x080000de,""
+45,1970/01/01 08:00:43,CPU4_F1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+44,1970/01/01 08:00:43,CPU4_F0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+43,1970/01/01 08:00:43,CPU4_E1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+42,1970/01/01 08:00:43,CPU4_E0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+41,1970/01/01 08:00:43,CPU4_D1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+40,1970/01/01 08:00:43,CPU4_D0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+39,1970/01/01 08:00:43,CPU4_C1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+38,1970/01/01 08:00:43,CPU4_C0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+37,1970/01/01 08:00:43,CPU4_B1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+36,1970/01/01 08:00:42,CPU4_B0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+35,1970/01/01 08:00:42,CPU4_A1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+34,1970/01/01 08:00:42,CPU4_A0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+33,1970/01/01 08:00:42,CPU3_F1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+32,1970/01/01 08:00:42,CPU3_F0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+31,1970/01/01 08:00:42,CPU3_E1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+30,1970/01/01 08:00:42,CPU3_E0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+29,1970/01/01 08:00:42,CPU3_D1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+28,1970/01/01 08:00:42,CPU3_D0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+27,1970/01/01 08:00:42,CPU3_C1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+26,1970/01/01 08:00:42,CPU3_C0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+25,1970/01/01 08:00:41,CPU3_B1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+24,1970/01/01 08:00:41,CPU3_B0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+23,1970/01/01 08:00:41,CPU3_A1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+22,1970/01/01 08:00:41,CPU3_A0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+21,1970/01/01 08:00:41,CPU2_F1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+20,1970/01/01 08:00:41,CPU2_F0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+19,1970/01/01 08:00:41,CPU2_E1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+18,1970/01/01 08:00:41,CPU2_E0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+17,1970/01/01 08:00:41,CPU2_D1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+16,1970/01/01 08:00:41,CPU2_D0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+15,1970/01/01 08:00:41,CPU2_C1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+14,1970/01/01 08:00:40,CPU2_C0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+13,1970/01/01 08:00:40,CPU2_B1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+12,1970/01/01 08:00:40,CPU2_B0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+11,1970/01/01 08:00:40,CPU2_A1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+10,1970/01/01 08:00:40,CPU2_A0,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+9,1970/01/01 08:00:40,CPU1_F1,Memory,Triggered,Info,"Presence detected",0x0c6000de,""
+8,1970/01/01 08:00:38,Health,Management Subsystem Health,Triggered,Info,"Management controller off-line---HDM cold reboot.---Adapter N/A has no response for 4 minutes",0x282000de,"This message is often generated when a user performs cold HDM reboot.
+1. Review operation logs and verify if a cold reboot operation was performed by a user. If yes, wait for HDM to restart.
+2. Verify if an AC lost event has occurred or the power cord is disconnected or faulty.
+  a. If an AC lost event occurred or a power sypply fails or is faulty, replace the power supply.
+  b. If the power cord is disconnected, reconnect the power cord.
+  c. If the power cord is faulty, replace the power cord.
+3. If the issue persists, contact Technical Support."
+7,1970/01/01 08:00:38,System,System Boot / Restart Initiated,Triggered,Info,"System Restart---AC lost",0x1d7000de,"The system restarted.
+No action is required."
+6,2023/02/09 15:19:30,PSU3_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+5,2023/02/09 15:19:30,PSU2_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+4,2023/02/09 15:19:30,PSU1_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+3,2023/02/09 15:19:26,ACPI_State,System ACPI Power State,Triggered,Info,"LPC Reset occurred",0x22d000de,"The server was reset.
+This message is available only for servers that use Intel processors.
+No action is required."
+2,2023/02/09 15:19:23,PSU4_Status,Power Supply,Triggered,Major,"Power Supply input lost (AC/DC)",0x083000de,"The AC or DC power input is abnormal.
+1. Verify that all power cords are not damaged and are correctly connected.
+2. Verify that all power supplies are correctly installed.
+3. Verify that the power supply fans are operating correctly.
+4. Verify that the power input is normal.
+5. If the issue persists, contact Technical Support."
+1,2023/02/09 15:11:10,SEL_Status,Event Logging Disabled,Triggered,Info,"Log Area Reset/Cleared",0x102000de,"This message is displayed if all event logs are cleared.
+No action is required."
